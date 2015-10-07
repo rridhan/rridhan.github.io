@@ -246,6 +246,10 @@ nav {
   border-bottom: 1px solid $darkGray;
 }
 
+.post h1 {
+  font-family: $georgia;
+}
+
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
